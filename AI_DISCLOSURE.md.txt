@@ -1,0 +1,17 @@
+# AI Use Disclosure Statement
+
+- **Student Name:** Zain Ul Abideen
+- **Roll Number:** 70154632
+- **Section:** C
+- **Course:** AI-101 — Machine Learning
+
+## Tools Used
+- **Google Gemini** (conversational AI assistant)
+
+## Specific Assistance Across Tasks
+1. **Task A2 (Concrete Compressive Strength):** Used AI assistance to structure the scikit-learn `Pipeline` and `GridSearchCV` boilerplate code and format LaTeX tables for the IEEE report.
+2. **Task B3 (Women's E-Commerce Clothing Reviews):** Used AI assistance to structure the multimodal `ColumnTransformer` combining numeric, categorical, and TF-IDF pipelines, resolve Kaggle dataset loading syntax, and format the confusion matrix and ablation tables in LaTeX.
+3. **Task C2 (Abstractive Summarisation of BBC News Articles):** Used AI assistance to structure the PyTorch GRU encoder-decoder attention module, configure Hugging Face `t5-small` mixed-precision training loops, and format the IEEE report layout.
+
+## Verification & Responsibility
+I verified all AI-assisted code and text by executing every notebook cell myself in Google Colab, checking all printed numbers, plots, and confusion matrices directly against raw notebook outputs, and manually inspecting 20 generated T5 summaries for factual hallucinations. All experiments, results, and analysis in the reports and repository were produced and checked by me, and I take full responsibility for this work.
